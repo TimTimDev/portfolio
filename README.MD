@@ -1,5 +1,5 @@
 # Portfolio
-## 1. Project  
+## 1. Projekt  
 ## Mis me tegime oma tiimiga?
 - Avastasime mis originaalse tunniplaaniga halvasti on ja mida muuta
 - Mõtlesime välja milline võiks uus tunniplaani vaade välja näha  
